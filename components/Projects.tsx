@@ -22,7 +22,7 @@ const projects = [
     id: 2,
     title: "CAJJ RDC",
     description:
-      "Site web professionnel pour CAJJ RDC avec interface moderne, navigation intuitive et design adapté aux besoins de l'organisation.",
+      "Site web professionnel pour CAJJ RDC avec interface moderne, navigation intuitive et design adapté aux besoins de l&apos;organisation.",
     category: "Web Design",
     image: "/images/websites/001.png",
     tags: ["Web Design", "Responsive", "Développement"],
@@ -33,7 +33,7 @@ const projects = [
     id: 3,
     title: "Page Jaune CD",
     description:
-      "Plateforme d'annuaire en ligne pour la République Démocratique du Congo. Design professionnel avec recherche avancée et listings.",
+      "Plateforme d&apos;annuaire en ligne pour la République Démocratique du Congo. Design professionnel avec recherche avancée et listings.",
     category: "Web Design",
     image: "/images/websites/002.png",
     tags: ["Annuaire", "Recherche", "Listing"],

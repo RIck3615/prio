@@ -178,7 +178,7 @@ export default function DesignGallery() {
           ))}
         </motion.div>
 
-        {/* Modal pour voir l'image en grand */}
+        {/* Modal pour voir l&apos;image en grand */}
         <Dialog open={isOpen} onOpenChange={setIsOpen}>
           <DialogContent className="max-w-7xl w-full p-0 bg-black/95 border-none overflow-hidden">
             {selectedImage !== null && (

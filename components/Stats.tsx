@@ -7,20 +7,20 @@ const stats = [
   {
     icon: Palette,
     number: "3+",
-    label: "Années d'expérience",
+    label: "Années d&apos;expérience",
     description: "En design graphique et création visuelle",
   },
   {
     icon: Globe,
     number: "20+",
     label: "Sites web créés",
-    description: "De la maquette jusqu'à la mise en ligne",
+    description: "De la maquette jusqu&apos;à la mise en ligne",
   },
   {
     icon: Image,
     number: "200+",
     label: "Retouches photo",
-    description: "Traitement professionnel d'images",
+    description: "Traitement professionnel d&apos;images",
   },
   {
     icon: FileText,
