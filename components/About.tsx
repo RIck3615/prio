@@ -13,7 +13,7 @@ const skills = [
   {
     icon: Image,
     title: "Retouche Photo",
-    description: "Retouche professionnelle et optimisation d'images, traitement sur fond vert",
+    description: "Retouche professionnelle et optimisation d&apos;images, traitement sur fond vert",
   },
   {
     icon: Layers,
@@ -90,7 +90,7 @@ export default function About() {
               <div className="space-y-4">
                 <p className="text-lg sm:text-xl text-foreground leading-relaxed font-medium">
                   Designer graphique <span className="text-primary font-bold">polyvalent</span> avec plus de{" "}
-                  <span className="text-primary font-bold">3 ans d'expérience</span> en création visuelle, 
+                  <span className="text-primary font-bold">3 ans d&apos;expérience</span> en création visuelle, 
                   retouche photo, conception de supports marketing et design web.
                 </p>
                 <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
@@ -133,7 +133,7 @@ export default function About() {
                     <div>
                       <h3 className="text-xl font-bold mb-2">Mon approche</h3>
                       <p className="text-sm text-muted-foreground leading-relaxed">
-                        Chaque projet est une opportunité de créer quelque chose d'unique qui 
+                        Chaque projet est une opportunité de créer quelque chose d&apos;unique qui 
                         reflète parfaitement votre identité tout en captivant votre audience.
                       </p>
                     </div>
@@ -144,7 +144,7 @@ export default function About() {
                   <div className="grid grid-cols-2 gap-4">
                     <div className="p-4 rounded-lg bg-background/50 border border-primary/10">
                       <p className="text-2xl font-bold text-primary mb-1">3+</p>
-                      <p className="text-xs text-muted-foreground">Années d'expérience</p>
+                      <p className="text-xs text-muted-foreground">Années d&apos;expérience</p>
                     </div>
                     <div className="p-4 rounded-lg bg-background/50 border border-primary/10">
                       <p className="text-2xl font-bold text-primary mb-1">100%</p>
@@ -239,7 +239,7 @@ export default function About() {
                     </div>
                   </div>
                   <p className="text-muted-foreground leading-relaxed">
-                    J'ai créé des supports visuels pour des campagnes internes et externes, 
+                    J&apos;ai créé des supports visuels pour des campagnes internes et externes, 
                     incluant affiches, catalogues, visuels web et retouches photo professionnelles.
                   </p>
                 </CardContent>
@@ -271,8 +271,8 @@ export default function About() {
                     </div>
                   </div>
                   <p className="text-muted-foreground leading-relaxed">
-                    J'ai conçu et développé plusieurs sites web professionnels pour des PME, 
-                    de la maquette jusqu'à la mise en ligne, avec interfaces modernes et responsives.
+                    J&apos;ai conçu et développé plusieurs sites web professionnels pour des PME, 
+                    de la maquette jusqu&apos;à la mise en ligne, avec interfaces modernes et responsives.
                   </p>
                 </CardContent>
               </Card>

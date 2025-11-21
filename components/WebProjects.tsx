@@ -21,7 +21,7 @@ const webProjects = [
     id: 2,
     title: "CAJJ RDC",
     description:
-      "Site web professionnel pour CAJJ ASBL (Centre d'Aide Juridico Judiciaire) avec interface moderne, navigation intuitive et design adapté aux besoins de l'organisation. Focus sur la promotion et protection des droits humains.",
+      "Site web professionnel pour CAJJ ASBL (Centre d&apos;Aide Juridico Judiciaire) avec interface moderne, navigation intuitive et design adapté aux besoins de l&apos;organisation. Focus sur la promotion et protection des droits humains.",
     category: "Web Design",
     image: "/images/websites/008.png",
     tags: ["Web Design", "Responsive", "Droits Humains"],
@@ -31,7 +31,7 @@ const webProjects = [
     id: 3,
     title: "Page Jaune CD",
     description:
-      "Plateforme d'annuaire en ligne pour la République Démocratique du Congo. Design professionnel avec recherche locale avancée, catégories populaires et historique des recherches.",
+      "Plateforme d&apos;annuaire en ligne pour la République Démocratique du Congo. Design professionnel avec recherche locale avancée, catégories populaires et historique des recherches.",
     category: "Web Design",
     image: "/images/websites/009.png",
     tags: ["Annuaire", "Recherche", "Listing"],
@@ -84,8 +84,8 @@ export default function WebProjects() {
             <span className="gradient-text">Sites Web Créés</span>
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Découvrez les sites web professionnels que j'ai conçus et développés, 
-            de la maquette jusqu'à la mise en ligne.
+            Découvrez les sites web professionnels que j&apos;ai conçus et développés, 
+            de la maquette jusqu&apos;à la mise en ligne.
           </p>
         </motion.div>
 

@@ -23,7 +23,7 @@ const websites = [
   {
     id: 2,
     title: "CAJJ RDC",
-    description: "Site web professionnel pour CAJJ ASBL - Centre d'Aide Juridico Judiciaire",
+    description: "Site web professionnel pour CAJJ ASBL - Centre d&apos;Aide Juridico Judiciaire",
     image: "/images/websites/008.png",
     url: "https://cajjrdc.com",
     category: "Droits Humains",
@@ -31,7 +31,7 @@ const websites = [
   {
     id: 3,
     title: "Page Jaune CD",
-    description: "Plateforme d'annuaire en ligne pour la République Démocratique du Congo avec recherche locale, catégories et historique des recherches",
+    description: "Plateforme d&apos;annuaire en ligne pour la République Démocratique du Congo avec recherche locale, catégories et historique des recherches",
     image: "/images/websites/009.png",
     url: "https://pagejaune.cd",
     category: "Annuaire",
@@ -134,7 +134,7 @@ export default function WebGallery() {
             <span className="gradient-text">Galerie de Sites Web</span>
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Explorez toutes les captures de sites web que j'ai créés. 
+            Explorez toutes les captures de sites web que j&apos;ai créés. 
             Cliquez sur une capture pour la voir en grand format et accéder au site.
           </p>
         </motion.div>

@@ -105,7 +105,7 @@ export default function Hero() {
                   Designer Graphique Polyvalent
                 </h2>
                 <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
-                  Plus de <span className="font-bold text-primary">3 ans d'expérience</span> en création visuelle, 
+                  Plus de <span className="font-bold text-primary">3 ans d&apos;expérience</span> en création visuelle, 
                   retouche photo, conception de supports marketing et design web.
                 </p>
               </motion.div>
